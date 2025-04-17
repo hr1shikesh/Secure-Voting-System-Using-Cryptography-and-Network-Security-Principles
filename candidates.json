@@ -1,0 +1,14 @@
+{
+    "Chairperson": [
+        {"id": 1, "name": "Raj", "party": "United Cooperative Front"},
+        {"id": 2, "name": "Sunil", "party": "New Era Cooperative"}
+    ],
+    "Secretary": [
+        {"id": 1, "name": "Vikrami", "party": "Independent"},
+        {"id": 2, "name": "Pritam", "party": "United Cooperative Front"}
+    ],
+    "Treasurer": [
+        {"id": 1, "name": "Suresh", "party": "Independent"},
+        {"id": 2, "name": "Anil", "party": "New Era Cooperative"}
+    ]
+}
